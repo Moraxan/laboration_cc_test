@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laboration_cc_test", "laboration_cc_test\laboration_cc_test.csproj", "{068881F7-E263-4D76-A3C1-629DB22F1331}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laboration_cc", "..\Moraxan\laboration_cc\laboration_cc.csproj", "{53823468-6BDF-4D22-9645-B4AE233BD2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068881F7-E263-4D76-A3C1-629DB22F1331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068881F7-E263-4D76-A3C1-629DB22F1331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068881F7-E263-4D76-A3C1-629DB22F1331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068881F7-E263-4D76-A3C1-629DB22F1331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53823468-6BDF-4D22-9645-B4AE233BD2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53823468-6BDF-4D22-9645-B4AE233BD2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53823468-6BDF-4D22-9645-B4AE233BD2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53823468-6BDF-4D22-9645-B4AE233BD2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AEA177-7500-41FA-BC31-0129BF11BED8}
+	EndGlobalSection
+EndGlobal
